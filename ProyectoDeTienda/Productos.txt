@@ -1,0 +1,55 @@
+23
+Galletas Choquis
+Galletas de chispas de chocolate 250 g
+40
+15.00
+10
+Café
+Café molido de 250 g
+20
+20.00
+9
+Huevo
+Cartón de huevo de 8 piezas
+30
+30.50
+8
+Agua
+Botella de agua de 2.5 L
+50
+11.00
+7
+Frijoles
+Frijoles negros enlatados
+20
+15.60
+6
+Sopa
+Sopa instantánea de pollo
+30
+17.00
+5
+Jabón de lavandería
+Jabón en barra para lavandería
+20
+15.30
+4
+Sal
+Sal de mesa de 500 g
+15
+20.00
+3
+Azúcar
+Azúcar refinada de 1.5 kg
+8
+50.99
+2
+Arroz
+Arroz blanco de 1 kg
+15
+35.50
+1
+Leche
+Cartón de leche entera de la marca Alpura
+10
+25.00

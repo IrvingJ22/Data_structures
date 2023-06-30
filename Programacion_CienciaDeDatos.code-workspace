@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "Practica1"
+        },
+        {
+            "path": "../CD"
+        },
+        {
+            "path": "."
+        },
+        {
+            "path": "../../Documents/Metodos_numericos"
+        },
+        {
+            "path": "../../Documents/Enviroment_de_python"
+        }
+    ]
+}
